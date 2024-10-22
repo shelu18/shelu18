@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Student Resource Administration solution**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://shelu18.github.io/My_Portfolio/](https://shelu18.github.io/My_Portfolio/)
 
