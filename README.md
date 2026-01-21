@@ -7,32 +7,51 @@
 ### 👨‍💻 About me
 
 - React Native Developer with ~1 year of hands-on experience shipping cross-platform apps.
-- Currently working at **Ultraxpert Technologies Pvt Ltd** (since Apr 2025) on real-world features:
+- Currently working at **Yuvasoft Solutions Pvt Ltd** (since Dec 2025) on production rental platform:
+  - Upgraded app version and React Native/Android build dependencies.
+  - Fixed build/compatibility issues and performed regression testing for active Play Store users.
+  - Working on large-scale rental app with property listing/browsing, search/filter, and owner-tenant workflows.
+- Previously at **Ultraxpert Technologies Pvt Ltd** (Apr 2025 – Nov 2025):
   - Real-time chat, maps, push notifications, auto-dial workflows.
   - Auth (OAuth 2.0, JWT), in-app payments, REST API integrations.
   - EAS builds and releases to **Play Store** / **App Store**.
-- Comfortable owning features end-to-end: from API contract and state management to app store deployment and debugging on real devices. :contentReference[oaicite:0]{index=0}
+- Comfortable owning features end-to-end: from API contract and state management to app store deployment and debugging on real devices.
 
 ---
 
-### 🚀 What I’m working on right now
+### 🚀 What I'm working on right now
+
+**React Native Developer @ Yuvasoft Solutions Pvt Ltd**  
+_Dec 2025 – Present_
+
+- **MagicalSwap – Rental Solution App**  
+  React Native · Android · Property Listings · Search/Filter · Play Store
+  - Rental platform for Indore connecting tenants and property owners with verified rental listings and local area-manager support.
+  - Upgraded the app version and dependencies (React Native / Android build setup), fixed build/compatibility issues, and performed regression checks to keep the production app stable for an active Play Store user base.
+  - Worked on a large-scale rental app codebase and supported ongoing development by analyzing existing modules (property listing/browsing, search/filter, and owner–tenant flows).
+  - Assisted with bug fixes and small UI/UX improvements while onboarding to the architecture and codebase.
+
+---
+
+### 💼 Previous Experience
 
 **React Native Developer @ Ultraxpert Technologies Pvt Ltd**  
-_Apr 2025 – Present_
+_Apr 2025 – Nov 2025_
 
 - **Drinking Buddy – Social Networking App**  
   React Native · TypeScript · Expo · React Navigation · Socket.IO · Google Maps SDK · Payment Gateway · EAS
   - Built core flows: real-time chat, club discovery via **Google Maps**, and in-app payments for Android & iOS.
   - Implemented **Google Sign-In (OAuth 2.0)** with token-based session handling and protected screens.
-  - Manage **EAS build & release** configuration (app IDs, signing, Play Store / App Store publishing).
+  - Managed **EAS build & release** configuration (app IDs, signing, Play Store / App Store publishing).
 
 - **CRM Autodialer – Mobile Sales App**  
   React Native · TypeScript · Expo · Zustand · FCM · AsyncStorage · REST APIs
   - App receives leads via **FCM push notifications** and triggers native auto-dial via the device dialer, cutting manual dialing effort.
   - Designed an end-to-end workflow: lead notification → auto-dial → call duration tracking via `AppState` → outcome capture → history sync to backend.
-  - Use **Zustand** for lead/call state and **AsyncStorage** for JWT token persistence and seamless login.
+  - Used **Zustand** for lead/call state and **AsyncStorage** for JWT token persistence and seamless login.
 
-- **Previous internship – Site Guru & Websotech** (Vue.js + Vuetify)
+**Internship – Site Guru & Websotech**  
+_Vue.js + Vuetify_
   - Built responsive dashboards and owned authentication + API flows for production users.
   - Improved dashboard load times and reliability for 100+ daily users.
 
@@ -94,7 +113,18 @@ _Apr 2025 – Present_
 
 > These are the kind of problems I like to solve in production.
 
-**1️⃣ Drinking Buddy – Social nightlife app**
+**1️⃣ MagicalSwap – Rental Solution App (Current)**
+
+Rental platform for Indore connecting tenants and property owners with verified listings and local area-manager support.
+
+- Upgraded app version and dependencies (React Native / Android build setup) to maintain stability for active Play Store users.
+- Fixed build/compatibility issues and performed comprehensive regression testing.
+- Analyzed and worked on large-scale codebase with property listing/browsing, search/filter, and owner-tenant workflows.
+- Assisted with bug fixes and UI/UX improvements while onboarding to the platform architecture.
+
+---
+
+**2️⃣ Drinking Buddy – Social nightlife app**
 
 Social networking app to discover clubs, chat with friends, and manage bookings.
 
@@ -106,7 +136,7 @@ Social networking app to discover clubs, chat with friends, and manage bookings.
 
 ---
 
-**2️⃣ CRM Autodialer – Lead-to-call workflow**
+**3️⃣ CRM Autodialer – Lead-to-call workflow**
 
 Mobile app for sales teams to cut manual dialing and keep call outcomes in sync with backend.
 
@@ -117,7 +147,7 @@ Mobile app for sales teams to cut manual dialing and keep call outcomes in sync 
 
 ---
 
-**3️⃣ Production dashboards (internship)**
+**4️⃣ Production dashboards (internship)**
 
 Vue.js + Vuetify dashboards and auth flows for 100+ daily users.
 
