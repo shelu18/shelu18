@@ -6,11 +6,8 @@
 
 ### 👨‍💻 About me
 
-- React Native Developer with ~1 year of hands-on experience shipping cross-platform apps.
-- Currently working at **Yuvasoft Solutions Pvt Ltd** (since Dec 2025) on production rental platform:
-  - Upgraded app version and React Native/Android build dependencies.
-  - Fixed build/compatibility issues and performed regression testing for active Play Store users.
-  - Working on large-scale rental app with property listing/browsing, search/filter, and owner-tenant workflows.
+- React Native developer with **production experience across multiple live apps** — from first commit to App Store and Play Store.
+- Currently working at **Yuvasoft Solutions Pvt Ltd** (since Dec 2025) on a live rental platform serving an active user base on iOS & Android.
 - Previously at **Ultraxpert Technologies Pvt Ltd** (Apr 2025 – Nov 2025):
   - Real-time chat, maps, push notifications, auto-dial workflows.
   - Auth (OAuth 2.0, JWT), in-app payments, REST API integrations.
@@ -24,12 +21,17 @@
 **React Native Developer @ Yuvasoft Solutions Pvt Ltd**  
 _Dec 2025 – Present_
 
-- **MagicalSwap – Rental Solution App**  
-  React Native · Android · Property Listings · Search/Filter · Play Store
-  - Rental platform for Indore connecting tenants and property owners with verified rental listings and local area-manager support.
-  - Upgraded the app version and dependencies (React Native / Android build setup), fixed build/compatibility issues, and performed regression checks to keep the production app stable for an active Play Store user base.
-  - Worked on a large-scale rental app codebase and supported ongoing development by analyzing existing modules (property listing/browsing, search/filter, and owner–tenant flows).
-  - Assisted with bug fixes and small UI/UX improvements while onboarding to the architecture and codebase.
+- **MagicalSwap – Rental Solution App** · [Google Play](https://play.google.com/store/apps/details?id=com.magicalswap.rent.android) · App Store  
+  React Native · TypeScript · Branch.io · Deep Linking · App Store Connect · Google Play Console · Android Build Tools
+
+  A production rental platform for Indore connecting tenants and property owners through verified listings and local area-manager support — **live on both iOS & Android with an active user base**.
+
+  - Implemented **Branch.io deep linking** for smart app links and attribution tracking across marketing campaigns.
+  - Managed new version deployments on **App Store Connect** and **Google Play Console** — including release notes, versioning, and rollout management.
+  - Upgraded React Native version and Android build configuration — resolved dependency conflicts and compatibility issues to keep the production app stable.
+  - Performed **regression testing** across all core flows (property listing, search/filter, owner-tenant interactions) after every major release.
+  - Analyzed and contributed across a large-scale production codebase covering property browsing, search/filter, and owner-tenant workflows.
+  - Delivered UI/UX improvements and bug fixes on a live app with real active users.
 
 ---
 
@@ -80,6 +82,7 @@ _Vue.js + Vuetify_
 - Permissions handling (location, phone, notifications)
 - Performance basics: avoiding unnecessary re-renders, memoization, flat list optimization
 - **EAS build & deployment**: configs, app signing, environment handling, Play Store / App Store releases
+- **Branch.io deep linking**: smart app links, attribution tracking, campaign management
 
 **Backend & tooling**
 
@@ -113,14 +116,19 @@ _Vue.js + Vuetify_
 
 > These are the kind of problems I like to solve in production.
 
-**1️⃣ MagicalSwap – Rental Solution App (Current)**
+**1️⃣ MagicalSwap – Rental Solution App (Live · Current)**  
+[Google Play](https://play.google.com/store/apps/details?id=com.magicalswap.rent.android) · App Store
 
-Rental platform for Indore connecting tenants and property owners with verified listings and local area-manager support.
+A production rental platform for Indore connecting tenants and property owners through verified listings and local area-manager support — **live on iOS & Android with an active user base**.
 
-- Upgraded app version and dependencies (React Native / Android build setup) to maintain stability for active Play Store users.
-- Fixed build/compatibility issues and performed comprehensive regression testing.
-- Analyzed and worked on large-scale codebase with property listing/browsing, search/filter, and owner-tenant workflows.
-- Assisted with bug fixes and UI/UX improvements while onboarding to the platform architecture.
+- Implemented **Branch.io deep linking** for smart app links and attribution tracking across marketing campaigns.
+- Managed new version deployments on **App Store Connect** and **Google Play Console** — release notes, versioning, and phased rollout management.
+- Upgraded React Native version and Android build configuration — resolved dependency conflicts and compatibility issues to keep production stable.
+- Performed comprehensive **regression testing** across core flows (property listing, search/filter, owner-tenant interactions) after every major change.
+- Contributed across a large-scale production codebase: property browsing, search/filter, and owner-tenant workflows.
+- Delivered UI/UX improvements and bug fixes on a live app with real active users.
+
+**Stack:** React Native · TypeScript · Branch.io · Deep Linking · App Store Connect · Google Play Console · Android Build Tools
 
 ---
 
