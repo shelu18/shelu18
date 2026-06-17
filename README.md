@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shailendra 👋</h1>
+<h1 align="center">Hey, I'm Shailendra Parihar 👋</h1>
 <p align="center"><b>React Native Developer · Indore, India</b></p>
 <p align="center">Building production-ready mobile apps with React Native, TypeScript & Expo.</p>
 
