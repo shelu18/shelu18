@@ -2,17 +2,27 @@
 <p align="center"><b>React Native Developer · Indore, India</b></p>
 <p align="center">Building production-ready mobile apps with React Native, TypeScript & Expo.</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆 SIH'24 Finalist-Smart India Hackathon-orange?style=flat" alt="SIH 2024 Finalist"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Freelance%20%26%20Contract-brightgreen?style=flat" alt="Open to work"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=shelu18&label=Profile%20views&style=flat&color=blue" alt="shelu18 profile views" />
+</p>
+
 ---
 
 ### 👨‍💻 About me
 
 - React Native developer with **production experience across multiple live apps** — from first commit to App Store and Play Store.
+- 🏆 **SIH'24 Finalist** — Smart India Hackathon, a national-level government tech competition across 50,000+ teams.
 - Currently working at **Yuvasoft Solutions Pvt Ltd** (since Dec 2025) on a live rental platform serving an active user base on iOS & Android.
-- Previously at **Ultraxpert Technologies Pvt Ltd** (Jan 2025 – Nov 2025):
+- Previously at **Ultraxpert Technologies Pvt Ltd** (Apr 2025 – Nov 2025):
   - Real-time chat, maps, push notifications, auto-dial workflows.
   - Auth (OAuth 2.0, JWT), in-app payments, REST API integrations.
   - EAS builds and releases to **Play Store** / **App Store**.
 - Comfortable owning features end-to-end: from API contract and state management to app store deployment and debugging on real devices.
+- 💼 **Currently open to:** Remote freelance & contract React Native projects.
 
 ---
 
@@ -97,7 +107,6 @@ _Vue.js + Vuetify_
 ### 🛠️ Languages & tools
 
 <p>
-  <!-- Core mobile -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react-native" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -116,78 +125,53 @@ _Vue.js + Vuetify_
 
 > These are the kind of problems I like to solve in production.
 
-**1️⃣ MagicalSwap – Rental Solution App (Live · Current)**  
-[Google Play](https://play.google.com/store/apps/details?id=com.magicalswap.rent.android) · App Store
+**1️⃣ MagicalSwap – Rental Solution App** `Live · Current`  
+[Google Play](https://play.google.com/store/apps/details?id=com.magicalswap.rent.android) · App Store  
+_React Native · TypeScript · Branch.io · App Store Connect · Google Play Console_
 
-A production rental platform for Indore connecting tenants and property owners through verified listings and local area-manager support — **live on iOS & Android with an active user base**.
-
-- Implemented **Branch.io deep linking** for smart app links and attribution tracking across marketing campaigns.
-- Managed new version deployments on **App Store Connect** and **Google Play Console** — release notes, versioning, and phased rollout management.
-- Upgraded React Native version and Android build configuration — resolved dependency conflicts and compatibility issues to keep production stable.
-- Performed comprehensive **regression testing** across core flows (property listing, search/filter, owner-tenant interactions) after every major change.
-- Contributed across a large-scale production codebase: property browsing, search/filter, and owner-tenant workflows.
-- Delivered UI/UX improvements and bug fixes on a live app with real active users.
-
-**Stack:** React Native · TypeScript · Branch.io · Deep Linking · App Store Connect · Google Play Console · Android Build Tools
+Rental platform connecting tenants & property owners in Indore — live on iOS & Android with an active user base. Branch.io deep linking, phased store rollouts, RN version upgrade, regression testing across core flows.
 
 ---
 
-**2️⃣ Drinking Buddy – Social nightlife app**
+**2️⃣ Drinking Buddy – Social nightlife app** `Production`  
+_React Native · TypeScript · Socket.IO · Google Maps · OAuth 2.0 · EAS_
 
-Social networking app to discover clubs, chat with friends, and manage bookings.
-
-- Real-time chat using Socket.IO with React Native + TypeScript.
-- Club discovery UX built on **Google Maps** with location permissions, markers, and detail screens.
-- Secure **Google Sign-In (OAuth 2.0)** and token-based auth protecting private routes.
-- In-app payments via integrated payment gateway.
-- Full **EAS build + release** ownership for Play Store / App Store (configs, signing, release builds).
+Real-time chat, club discovery via Google Maps, Google Sign-In, in-app payments — full EAS build & release ownership for Play Store & App Store.
 
 ---
 
-**3️⃣ CRM Autodialer – Lead-to-call workflow**
+**3️⃣ CRM Autodialer – Lead-to-call workflow** `Production`  
+_React Native · TypeScript · FCM · Zustand · AsyncStorage · REST APIs_
 
-Mobile app for sales teams to cut manual dialing and keep call outcomes in sync with backend.
-
-- Leads arrive via **FCM push notifications** and trigger **native auto-dial**.
-- Track call duration & state via `AppState` and prompt reps to log outcomes.
-- Sync outcomes to backend via **REST APIs** with Axios.
-- **Zustand + AsyncStorage** for auth and lead state, keeping JWT tokens and user sessions persistent.
+FCM-triggered auto-dial → call tracking via `AppState` → outcome capture → backend sync. End-to-end workflow owned from notification to data persistence.
 
 ---
 
-**4️⃣ Production dashboards (internship)**
+**4️⃣ Production dashboards** `Internship · Site Guru & Websotech`  
+_Vue.js · Vuetify_
 
-Vue.js + Vuetify dashboards and auth flows for 100+ daily users.
-
-- Built responsive components and routing for admin dashboards.
-- Integrated backend APIs for listing, filtering, and updating data.
-- Implemented login, protected routes, and session handling.
+Responsive admin dashboards and auth flows serving 100+ daily users — API integration, protected routing, session handling.
 
 ---
 
 ### 📬 Contact & links
 
-- 📍 Indore, India  
-- ✉️ **Email:** [shailendraparihar3630@gmail.com](mailto:shailendraparihar3630@gmail.com)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/shailendraparihar07](https://www.linkedin.com/in/shailendraparihar07)  
-- 🐙 **GitHub:** [https://github.com/shelu18](https://github.com/shelu18)
+- 📍 Indore, India
+- 🌐 **Portfolio:** [shelu18.github.io/My_Portfolio](https://shelu18.github.io/My_Portfolio)
+- ✉️ **Email:** [shailendraparihar3630@gmail.com](mailto:shailendraparihar3630@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/shailendraparihar07](https://www.linkedin.com/in/shailendraparihar07)
+- 🐙 **GitHub:** [github.com/shelu18](https://github.com/shelu18)
 
 ---
 
 ### 📊 GitHub stats
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shelu18&label=Profile%20views&style=flat" alt="shelu18 profile views" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shelu18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shelu18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shelu18&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shelu18" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shelu18&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shelu18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
