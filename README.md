@@ -8,7 +8,7 @@
 
 - React Native developer with **production experience across multiple live apps** — from first commit to App Store and Play Store.
 - Currently working at **Yuvasoft Solutions Pvt Ltd** (since Dec 2025) on a live rental platform serving an active user base on iOS & Android.
-- Previously at **Ultraxpert Technologies Pvt Ltd** (Apr 2025 – Nov 2025):
+- Previously at **Ultraxpert Technologies Pvt Ltd** (Jan 2025 – Nov 2025):
   - Real-time chat, maps, push notifications, auto-dial workflows.
   - Auth (OAuth 2.0, JWT), in-app payments, REST API integrations.
   - EAS builds and releases to **Play Store** / **App Store**.
