@@ -48,7 +48,7 @@ _Dec 2025 – Present_
 ### 💼 Previous Experience
 
 **React Native Developer @ Ultraxpert Technologies Pvt Ltd**  
-_Apr 2025 – Nov 2025_
+jan 2025 – Nov 2025_
 
 - **Drinking Buddy – Social Networking App**  
   React Native · TypeScript · Expo · React Navigation · Socket.IO · Google Maps SDK · Payment Gateway · EAS
